@@ -1,12 +1,12 @@
 %define		pkgname	files_epubviewer
 Summary:	let you read your ebooks online!
 Name:		owncloud-%{pkgname}
-Version:	0.5.2
+Version:	0.6.1
 Release:	0.1
 License:	LGPL
 Group:		Development/Languages/PHP
 Source0:	http://www.les-charles.net/files/files_epubviewer_oc5.tar.gz
-# Source0-md5:	6434eb1c030f6b4f78c7c63d61a26795
+# Source0-md5:	8376b5ee02d6c21794539f9a00346651
 URL:		http://apps.owncloud.com/content/show.php/EPub+online+reader+%28oc5%29?content=157609
 BuildRequires:	rpmbuild(macros) >= 1.461
 Requires:	owncloud >= 5.0.0
